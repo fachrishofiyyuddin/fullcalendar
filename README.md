@@ -1,4 +1,4 @@
-<h1>Demo Tampilan Kalender Interaktif dengan FullCalendar dan TerIntegrasi Data JSON dari PHP/MySQLi</h1>
+<h1>Demo Tampilan Kalender Interaktif dengan FullCalendar dan Integrasi Data JSON dari PHP/MySQLi</h1>
 
 alat tempur
 <ol>
